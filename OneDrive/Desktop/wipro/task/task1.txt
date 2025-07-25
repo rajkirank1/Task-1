@@ -1,2 +1,3 @@
 "hello" 
 "my name is kiran kumar"
+"my favorate movie is salaar" 
