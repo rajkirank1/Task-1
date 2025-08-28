@@ -34,10 +34,3 @@ It allows **Admins** to manage users and tasks, while **Users** can view and upd
 - JSP + JSTL
 - Tomcat 9 (or any Servlet 4.0+ container)
 
-
-
-
-
-
-
-Ask ChatGPT
